@@ -76,7 +76,7 @@ while True:
                     break
             break
         case 3:
-            print(f"[{name}]: I choose Rock!")
+            print(f"[{name}]: I choose Scissors!")
             y = random.randint(0, 2)
             match y:
                 case 0:
